@@ -1,0 +1,18 @@
+{
+  "1": {
+    "skillName": "Figma",
+    "percentage": "100%"
+  },
+  "2": {
+    "skillName": "Adobe Illustrator",
+    "percentage": "60%"
+  },
+  "3": {
+    "skillName": "Blender",
+    "percentage": "40%"
+  },
+  "4": {
+    "skillName": "Python",
+    "percentage": "20%"
+  }
+}
